@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Space Grotesk', sans-serif;
+    color:#474747;
+}
+
+.section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header {
+    width: 100%;
+    text-align: center;
+    background-color: #474747;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+.title{
+    font-weight: 800;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.text-input{
+    margin-bottom: 20px;
+    background-color: #474747;
+    color:#fff;
+    font-size: 1.2rem;
+    padding: 4px;
+    border-radius: 3px;
+}
